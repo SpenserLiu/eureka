@@ -21,6 +21,7 @@ import java.util.Date;
  * An example service (that can be initialized in a variety of ways) that registers with eureka
  * and listens for REST calls on port 8001.
  */
+
 @Singleton
 public class ExampleServiceBase {
 
